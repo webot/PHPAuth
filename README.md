@@ -176,12 +176,12 @@ Available languages:
 * `ru_RU`
 * `se_SE`
 * `vi_VN`
+
 Documentation
 ---------------
 
 All class methods are documented in [the Wiki](https://github.com/PHPAuth/PHPAuth/wiki/Class-Methods)  
 System error codes are listed and explained [here](https://github.com/PHPAuth/PHPAuth/wiki/System-error-codes)
-
 
 Contributing
 ---------------
